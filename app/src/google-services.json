@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565726308117",
+    "project_id": "testtraffbraza",
+    "storage_bucket": "testtraffbraza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565726308117:android:e0c48ccd102437cca6eb1c",
+        "android_client_info": {
+          "package_name": "com.example.testtraffbraza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565726308117-renje10ft99bea1oakuj30jf57br6fe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDp6vwcYC3unJ0EnpRpdDzZjOBan_osJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565726308117-renje10ft99bea1oakuj30jf57br6fe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
